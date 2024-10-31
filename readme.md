@@ -19,6 +19,6 @@
  ('build', 40),
  ('dat', 39)]
    
-5. Goal is to find out if user with hireable worked more on repos in weekends than others
+3. Goal is to find out if user with hireable worked more on repos in weekends than others
    
    Find out fraction of repos where user hireable = True is created more on weekends than hireable = False
